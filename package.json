@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/shadowlaq/FriendFinder.git"
   },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }, 
   "keywords": [],
   "author": "",
   "license": "ISC",
