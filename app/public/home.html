@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hedgie Finder</title>
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/Icon.png">
+
+	<!-- Link to the jQuery Library THIS MUST GO HERE OR YOU HAVE ISSUES WITH MATERIALIZE DROP DOWN FUNCTIONs-->
+	<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<!-- Link to reset stylesheet -->
+	<link rel="stylesheet" href="css/reset.css">
+	<!--Import Google Icon -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!-- Mini Materialized package (CSS)-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+	<!-- Mini Materialized Package (JavaScript) THIS IS WHY WE CALL JQUERY FIRST-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+	<!-- STYLING -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<header>
+		<nav>
+			<div class="nav-wrapper #546e7a blue-grey darken-1">
+				<!-- <i class="fa fa-address-book-o fa-5x" aria-hidden="true" id=logo-icon></i> -->
+				<i id="logo"class="material-icons left">whatshot</i>
+
+				<a href="/" class="brand-logo" id="logo">Hedgie Finder</a>
+				<ul class="right hide-on-med-and-down" id="head-nav-links">
+					<li><a href="/survey">Survey</a></li>
+					<li><a href="/api/friends">API Friends List</a></li>
+					<li><a href="https://github.com/angrbrd/friend-finder">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+
+	<main>
+		<div class="container">
+			<div class="row">
+				<div class="col s12 z-depth-5 mainpanel">
+					<div id="mainpanel-content">
+						<h1>Friend Finder</h1>
+						<div class="divider"></div>
+						<h2>Answer a few crazy questions!</h2>
+						<h2>Find the Hedgie with the greatest snuggability!</h2>
+						<a href="/survey">
+							<button class="btn waves-effect waves-dark" type="submit" name="action">Fill Survey :D
+								<i class="material-icons right">send</i>
+							</button>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<footer class="page-footer #546e7a blue-grey darken-1">
+		<div class="container">
+			<div class="row">
+				<div class="col l6 s12">
+					<h5 class="white-text">Friend Finder App</h5>
+					<p class="grey-text text-lighten-4">Take the survey! Find a hedgehog!</p>
+				</div>
+				<div class="col l4 offset-l2 s12">
+					<h5 class="white-text">Links</h5>
+					<ul>
+						<li><a class="grey-text text-lighten-3" href="/api/friends">API Friends List</a></li>
+						<li><a class="grey-text text-lighten-3" href="https://github.com/shadowlaq">GitHub Repo</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="footer-copyright">
+			<div class="container">
+				© 2018 Firefish LLC
+			</div>
+		</div>
+	</footer>
+
+</body>
+</html>
