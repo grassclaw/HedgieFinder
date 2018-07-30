@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'The Quillinator',
+		photo: 'https://s-media-cache-ak0.pinimg.com/originals/37/03/cb/3703cbcdbd568df7060d5feb0bdf8a8b.png',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Sir Quillium',
+		photo: 'https://s-media-cache-ak0.pinimg.com/originals/d7/86/3b/d7863b7e4f6a96f9f9d47d42d83e565a.jpg',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Bill',
+		photo: 'http://www.carolinastormhedgehogs.com/uploads/2/8/0/8/2808963/6210870.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'HedgieBot (NOT VERIFIED)',
+		photo: 'http://janbrett.com/images/costumes_hedgie.gif',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Twilletta',
+		photo: 'http://4.bp.blogspot.com/-ojqZXynVd9s/Ub8sMw28agI/AAAAAAAAAWI/AqrWN00zXGA/s1600/000c0065-0000-0000-0000-000000000000_bc1c4aff-f567-488a-80b5-53ea1da9c553_20130131180135_hedgie.jpg',
 		scores: [
 			'1',
 			'1',
@@ -81,8 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'Spike Balls',
+		photo: 'http://www.carolinastormhedgehogs.com/uploads/2/8/0/8/2808963/3052455_orig.jpg',
 		scores: [
 			'1',
 			'1',
@@ -97,8 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'Hedgie Potter',
+		photo: 'https://s-media-cache-ak0.pinimg.com/736x/ff/7c/75/ff7c75d27f17e4721b060abfef78c52a--cute-hedgehog-hedgehog-quotes.jpg',
 		scores: [
 			'5',
 			'4',
@@ -113,8 +113,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		name: 'Hedgie Flyer',
+		photo: 'https://s-media-cache-ak0.pinimg.com/736x/59/88/2a/59882aa74089d2d443f5f743a53fccf0.jpg',
 		scores: [
 			'5',
 			'2',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Hedgienator',
+		photo: 'https://s-media-cache-ak0.pinimg.com/736x/24/8a/18/248a186541a5e50ffb69753b289a987b.jpg',
 		scores: [
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Bruester',
+		photo: 'http://www.hawkeyehedgies.net/uploads/2/9/5/9/2959486/3224827_orig.jpg',
 		scores: [
 			'1',
 			'1',
